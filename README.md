@@ -235,4 +235,4 @@ function withdraw(account, amount) {
 }
 ```
 
-All React components must act like pure functions with respect to their props
+All React components must act like pure functions with respect to their props.
